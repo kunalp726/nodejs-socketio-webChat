@@ -1,0 +1,33 @@
+@media  (max-width:768px){
+.nothing{
+
+  height: 20px;
+}
+.chat{
+
+    max-height: 250px;
+}
+  button{
+
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+}
+
+.container{
+
+margin-top: 50px;
+
+}
+
+.chat{
+
+  max-height: 375px;
+  overflow-y: auto;
+   word-wrap: break-word;
+}
+.application{
+
+  display:none;
+}
